@@ -1,0 +1,38 @@
+.container__profile {
+  display: flex;
+  align-items: flex-start;
+  padding: 5em;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #FFFF;
+  font-family:  Serif, monospace;
+
+}
+
+.text-container {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  margin-right: 1em;
+}
+
+#name, #tittle, .text-container, #image {
+  background-color: inherit;
+}
+
+
+#name {
+  font-size: 1em;
+  font-weight: lighter;
+}
+
+#tittle {
+  font-size: 3em;
+  font-weight: bold;
+  margin-top: 0.3em;
+}
+
+#image {
+  max-width: 45%;
+  border-radius: 8px;
+}

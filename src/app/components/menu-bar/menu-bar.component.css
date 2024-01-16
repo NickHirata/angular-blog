@@ -1,0 +1,19 @@
+.container__menu-bar{
+  margin-top: 1em;
+  color: white;
+}
+.container__menu-bar > ul{
+  display: flex;
+  flex-direction: row;
+
+}
+
+.container__menu-bar > ul > li {
+  margin-right: 3em;
+  list-style: none;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}

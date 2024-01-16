@@ -1,0 +1,45 @@
+
+.icons {
+  padding: 2em;
+  align-items: center;
+  display: flex;
+}
+
+.container__resume{
+  color: #FFFFFF;
+  font-family:   Garamond, monospace;
+  letter-spacing: .2em;
+  padding: 2em;
+
+
+}
+
+#tittle{
+  font-size: 4em;
+  font-weight: bolder;
+  display: flex;
+  justify-content: left;
+}
+
+
+#paragraph{
+  font-size: 2em;
+  font-family: 'Courier New', Courier, monospace;
+}
+.fa {
+  padding:0.2em;
+  font-size:2em;
+  text-align: center;
+  text-decoration: none;
+  margin: 0.2em 0.25em;
+  border-radius: 50%;
+  background: #3B3B3B;
+  color: #FFFFFF;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+

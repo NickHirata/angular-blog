@@ -1,0 +1,12 @@
+*{
+  background-color: white;
+  color:black;
+  max-width: 200px;
+}
+
+.small-car_tittle{
+  font-weight: bold;
+}
+.small-car_description{
+  color: rgba(46, 46, 46, 0.811);
+}

@@ -18,6 +18,7 @@
 
 #name, #tittle, .text-container, #image {
   background-color: inherit;
+  color: black;
 }
 
 

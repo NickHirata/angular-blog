@@ -4,9 +4,9 @@
   max-width: 200px;
 }
 
-.small-car_tittle{
+.small-card_tittle{
   font-weight: bold;
 }
-.small-car_description{
+.small-card_description{
   color: rgba(46, 46, 46, 0.811);
 }
